@@ -1,8 +1,8 @@
 # filename: Rocket assignmnet
 
-# Author name: Michael, Muhtasim, Sameer, Khatab, Aggash
+# Author name:  Muhtasim Khan
 
-# Date created: 23/06/2021
+# Date created: 23/06/2022
 
 """
 
