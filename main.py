@@ -74,7 +74,7 @@ size = [660, 400]
 
 screen = pygame.display.set_mode(size)
 
-pygame.display.set_caption("Group 2 rocket assignment")
+pygame.display.set_caption("By: Muhtasim Khan")
 
 # Loop until the user clicks the close button.
 
